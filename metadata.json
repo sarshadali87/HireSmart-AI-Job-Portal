@@ -1,0 +1,5 @@
+{
+  "name": "HireSmart AI Job Board",
+  "description": "A next-generation job board where companies can post job openings, and candidates can apply seamlessly using AI-enhanced resumes. The platform uses the Gemini API for intelligent resume insights and job description generation.",
+  "requestFramePermissions": []
+}
